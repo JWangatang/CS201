@@ -1,0 +1,6 @@
+Scrabble With Friends was created by Din Allal, Wyatt Kim, Sagar Mittal, Jonathan Wang and Lucy Wang.
+This is our final project for our CSCI 201 course at USC.
+This program includes user login functionality, multi-threading and networking.
+It was written in Java and incorporates Swing in order to create the GUI.
+We learned a lot about the different phases of software engineering throughout this project.
+We hope you enjoy using this program!

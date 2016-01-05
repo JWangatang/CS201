@@ -1,0 +1,20 @@
+Start the game:
+	Press "Play"
+	Press "Join" or "Host"
+	Enter necessary information to join or host a game
+	If hosting, select the number of players
+	Connect and continue to the game
+Play the game:
+	Each turn you can pass or play a word
+	You can swap as many tiles as many times as you would like
+	The first word of a game must include the middle tile
+	Each word must be a valid word in the English language
+	Each letter has a point value
+	The points add up to your score for each word
+	The game ends when all players pass twice in a row
+	BONUS: You may randomly get one extra letter
+Play a letter:
+	Click the letter you want to move from your rack
+	Click the tile on the board you want to move that letter to
+Objective: 
+	End the game with the most points
