@@ -13,3 +13,6 @@ Sorry! Board Game continued. Custom Font added, improved GUI, chat box added, he
 
 Assigment 5: 
 Sorry! Board Game continued. Sounds added to pawn movement, animation added to pawn movement.
+
+CS Final Project:
+Written in Java with Swing GUI. Features: SQL-incorporated database, login and chat functionality, networked and multithreaded gameplay. Experienced Waterfall software model, black-box/white-box/regression testing, SourceTree for version control, drafting of formal documentation, and project demo.
