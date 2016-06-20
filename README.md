@@ -20,4 +20,19 @@ Sorry! Board Game continued. Custom Font added, improved GUI, chat box added, he
 Sorry! Board Game continued. Sounds added to pawn movement, animation added to pawn movement.
 
 ###CS Final Project - Scrabble with Friends
-Written in Java with Swing GUI. Features: SQL-incorporated database, login and chat functionality, networked and multithreaded gameplay. Experienced Waterfall software model, black-box/white-box/regression testing, SourceTree for version control, drafting of formal documentation, and project demo.
+Written in Java with Swing GUI. 
+######Features:
+- Login functionality (Create Account or Play as Guest)
+- Networked gameplay
+- Dictionary word check
+- Pass Turn, Play Word, Swap Tiles
+- Multithreaded actions: Word check and place words while waiting for turn
+- About, Help, and Current Score toolbar
+- Login Screen, Tile, and Board Graphics
+
+######Other:
+- Followed the Waterfall software model
+- Drafting of formal documentation: Project Proposal, High-Level Requirements, Technical Specifications, Detailed Design, Testing Document, Deployment Document, Complete Documentation
+- Black-box/white-box/regression testing
+- SourceTree for version control
+- In class formal project demo
