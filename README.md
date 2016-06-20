@@ -27,7 +27,9 @@
 - Networked gameplay: can host or join server
 - Players replaced with bots when disconnected and disconnect message is displayed.
 
-###Assigment 5 - Sorry! Board Game continued. Sounds added to pawn movement, animation added to pawn movement.
+###Assigment 5 - Sorry! Board Game continued
+- Sound effects added to pawn movement
+- Animation added to pawn movement
 
 ###Final Project - Scrabble with Friends
 Written in Java with Swing GUI. 
