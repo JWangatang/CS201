@@ -24,7 +24,7 @@ Special Card: 10
 ![alt tag] (http://i.imgur.com/AbxtdZB.gif)
 
 ###Assignment Breakdown
-#####Assignment 2- Sorry! Board Game continued
+#####Assignment 2 - Sorry! Board Game continued
 - Swing GUI for first few screens
 - No game logic or board functionality yet.
 
