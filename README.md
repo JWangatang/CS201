@@ -14,8 +14,9 @@
 ![alt tag] (http://i.imgur.com/WqBiEk8.gif)
 - Card Functionality, Space Highlighting, and Animation
 ![alt tag] (http://i.imgur.com/3fsPviI.gif)
-######Special Cards like the Sorry! Card and 10 Card
+Special Card: Sorry! Card
 ![alt tag] (http://i.imgur.com/pkOjxSb.gif)
+Special Card: 10
 ![alt tag] (http://i.imgur.com/t2fujUP.gif)
 - Bot Functionality if user leaves game
 ![alt tag] (http://i.imgur.com/mrsbrEO.gif)
