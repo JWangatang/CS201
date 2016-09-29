@@ -12,7 +12,7 @@
 ![alt tag] (http://i.imgur.com/Ynu2Tex.gif)
 - Networked Chat Functionality
 ![alt tag] (http://i.imgur.com/WqBiEk8.gif)
-- Card Functionality, Space Highlighting, and Animation
+- Card Functionality, Space Highlighting, and Networked Animations and Sounds
 ![alt tag] (http://i.imgur.com/3fsPviI.gif)
 Special Card: Sorry! Card
 ![alt tag] (http://i.imgur.com/pkOjxSb.gif)
