@@ -5,10 +5,7 @@
 
 
 ###Assignment 1
-- Learning Scanners
-- File I/O
-- File searching, scraping, and comparison
-- Timestamping
+- Learning Scanners, File I/O, File searching/scraping/comparison, Timestamping
 
 ###Assignment 2 - Sorry! Board Game
 
