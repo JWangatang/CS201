@@ -23,6 +23,8 @@ Special Card: 10
 - Winning a game adds usernames to database
 ![alt tag] (http://i.imgur.com/AbxtdZB.gif)
 
+###CSCIFinalProject - Scrabble Board Game
+
 ###Assignment Breakdown
 #####Assignment 2 - Sorry! Board Game continued
 - Swing GUI for first few screens
